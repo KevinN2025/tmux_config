@@ -1,5 +1,4 @@
 # tmux_config
 My minimal tmux config
 
-
-<img width="1279" height="773" alt="image" src="https://github.com/user-attachments/assets/0d236d8b-6b45-40c2-b62b-97d787f059ab" />
+<img width="1439" height="141" alt="image" src="https://github.com/user-attachments/assets/06218e7d-dd22-4bfc-95ba-91526ec520fb" />
